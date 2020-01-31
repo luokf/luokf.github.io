@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Workshop"
+type: "RA"
 permalink: /teaching/2019-spring-teaching
 venue: "Department of Physics, Wuhan University"
 date: 2019-02-01
