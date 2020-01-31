@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF](https://github.com/luokf/luokf.github.io/blob/master/files/CV_kfluo.pdf)
+[Full CV (PDF)](https://github.com/luokf/luokf.github.io/blob/master/files/CV_kfluo.pdf)
 ======
 
 Education
@@ -20,10 +20,8 @@ Research Experience
 ======
 * 09/2019 - 05/2020: Research Assistant
   * Hong Kong University of Science and Technology
-#  * Duties included: Conducting numerical research projects.
   * Supervisor: Professor Xi Dai
 
 * 03/2017 - 07/2019: Research Assistant
   * Wuhan University
-#  * Duties included: Conducting theoretical and numerical research projects.
   * Supervisor: Professor Rui Yu
