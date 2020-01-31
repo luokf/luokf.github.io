@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+---
+
+Full list please find in my Google scholar page.
 ---
 
 {% if author.googlescholar %}
