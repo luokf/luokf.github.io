@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic CV"
+title: "Academic CV [PDF](https://github.com/luokf/luokf.github.io/blob/master/files/CV_kfluo.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
