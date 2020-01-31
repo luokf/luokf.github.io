@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Supervise UGs' Thesis"
 collection: teaching
 type: "RA"
 permalink: /teaching/2019-spring-teaching

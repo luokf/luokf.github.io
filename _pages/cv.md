@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV (PDF)](https://github.com/luokf/luokf.github.io/blob/master/files/CV_kfluo.pdf)
-======
+[Full CV (PDF)](https://www.jianguoyun.com/p/DcvnBLcQuKaVBhjurtEC)
 
-Education
-======
+## Education
 * B.S. in Physics, Wuhan University, 2018
 
-Research Experience
-======
+## Research Experience
 * 09/2019 - 05/2020: Research Assistant
   * Hong Kong University of Science and Technology
   * Supervisor: Professor Xi Dai
