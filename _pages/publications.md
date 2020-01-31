@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Full list please find in my Google scholar page.
+
 ---
 
 {% if author.googlescholar %}
