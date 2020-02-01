@@ -10,4 +10,4 @@ redirect_from:
 
 Hi there! I am currently a Research Assistant in Prof. Xi Dai’s group at HKUST.
 
-In 2018, I attained B.Sc. and graduated summa cum laude from Wuhan University, before which I was being an undergraduate researcher supervised by Prof. Rui Yu for over two years.
+In 2018, I attained B.Sc. and graduated summa cum laude from Wuhan University with highest honor, before which I was being an undergraduate researcher supervised by Prof. Rui Yu for over two years.
