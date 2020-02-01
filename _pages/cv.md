@@ -12,7 +12,7 @@ redirect_from:
 [Full CV (PDF)](https://www.jianguoyun.com/p/DcvnBLcQuKaVBhjurtEC)
 
 ## Education
-* B.S. in Physics, Wuhan University, 2018
+* B.Sc., Wuhan University, 2018
 
 ## Research Experience
 * 09/2019 - 05/2020: Research Assistant
