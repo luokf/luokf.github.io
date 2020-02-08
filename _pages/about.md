@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Kaifa Luo's personal website."
+title: "This is Kaifa Luo's homepage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a Research Assistant in Prof. Xi Dai’s group at HKUST.
+Hi there! I am currently a research assistant in Prof. Xi Dai’s group at HKUST.
 
 In 2018, I attained B.Sc. and graduated summa cum laude from Wuhan University, before which I was being an undergraduate researcher supervised by Prof. Rui Yu for over two years.
