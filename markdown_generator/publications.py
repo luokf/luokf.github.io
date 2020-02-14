@@ -25,7 +25,6 @@
 
 import pandas as pd
 
-
 # ## Import TSV
 # 
 # Pandas makes this easy with the read_csv function. We are using a TSV, so we specify the separator as a tab, or `\t`.
