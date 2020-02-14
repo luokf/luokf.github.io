@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full list please find in my Google scholar page.
+Full list please find on my Google Scholar profile.
 
 ---
 
