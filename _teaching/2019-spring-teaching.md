@@ -1,5 +1,5 @@
 ---
-title: "Supervise UGs' Thesis"
+title: "Bacholar Thesis"
 collection: teaching
 type: "RA"
 permalink: /teaching/2019-spring-teaching
