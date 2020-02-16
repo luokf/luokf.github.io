@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Kaifa Luo's homepage."
+title: "This is Kaifa's homepage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,8 @@ Hi there! I am currently a research assistant in Prof. [Xi Dai](http://physics.u
 In 2018, I attained B.Sc. and graduated summa cum laude from Wuhan University, before which I was being an undergraduate researcher supervised by Prof. [Rui Yu](https://scholar.google.com/citations?user=wk3pirYAAAAJ&hl=en) for over two years.
 
 This website is under construction...
+
+---
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
