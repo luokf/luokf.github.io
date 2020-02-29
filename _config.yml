@@ -111,9 +111,9 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.zhihu.com/people/luokf/answers"
+  weibo            : # "https://www.zhihu.com/people/luokf/answers"
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCXPkfKq1-WDcFNEq3yVAgaQ"
+  youtube          : # "https://www.youtube.com/channel/UCXPkfKq1-WDcFNEq3yVAgaQ"
   wikipedia        :
 
 # Reading Files

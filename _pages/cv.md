@@ -19,6 +19,6 @@ redirect_from:
   * Hong Kong University of Science and Technology
   * Supervisor: Professor Xi Dai
 
-* 03/2017 - 07/2019: Research Assistant
+* 03/2017 - 05/2019: Research Assistant
   * Wuhan University
   * Supervisor: Professor Rui Yu
