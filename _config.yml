@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kaifa Luo"
   avatar           : "profile.jpg"
-  bio              : "know thyself, keep empathy, have fun"
-  location         : # "Location"
+  bio              : "know thyself, keep empathy, enjoy life"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IaCMjeQAAAAJ&hl=en"
@@ -111,11 +111,10 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://www.zhihu.com/people/luokf/answers"
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCXPkfKq1-WDcFNEq3yVAgaQ"
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/luokf/answers"
 
 # Reading Files
 include:
