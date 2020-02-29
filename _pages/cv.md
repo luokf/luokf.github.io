@@ -12,7 +12,7 @@ redirect_from:
 [Full CV (PDF)](https://www.jianguoyun.com/p/DcvnBLcQuKaVBhjurtEC)
 
 ## Education
-* B.Sc., Major in Physics & Minor in Computer Science, Wuhan University, 2018
+* 2018, Wuhan University, B.Sc. in Physics & Minor in Computer Science
 
 ## Research Experience
 * 09/2019 - 05/2020: Research Assistant
