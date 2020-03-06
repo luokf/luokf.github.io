@@ -1,5 +1,5 @@
 ---
-title: "Bacholar Thesis"
+title: "Bachelor Thesis in Topological States"
 collection: teaching
 type: "RA"
 permalink: /teaching/2019-spring-teaching
@@ -8,12 +8,12 @@ date: 2019-02-01
 location: "Wuhan, China"
 ---
 
-As a graduate research assistant to Prof. Rui Yu in Spring 2019, I advised two seniors to accomplish their thesis developed from two of my work 'Topologial nodal states in circuit lattice' and 'non-Hermitian exceptional points'.
+As a graduate research assistant to Prof. Rui Yu in spring 2019, I advised two seniors to accomplish their thesis developed from two of my work 'Topologial nodal states in circuit lattice' and 'non-Hermitian exceptional points'.
 
 ## Topological Spring-Mass Network
 
 TBD.
 
-## Higher-Order Exceptional Points and LC Lattice Realization
+## Higher-Order Exceptional Points Realized by LC Lattice
 
 TBD.
