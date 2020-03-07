@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full list please find on my Google Scholar profile.<br/>
+Full list please find on my [Google Scholar](https://scholar.google.com/citations?user=IaCMjeQAAAAJ&hl=en) profile.<br/>
 $^{*}$Joint first author.
 
 ---
