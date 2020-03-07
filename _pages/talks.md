@@ -11,7 +11,7 @@ author_profile: true
 updating, Note@Gitbook. 
 [[afterScience](https://kfluo.gitbook.io/aftersci/)]
 
-[3] Fundamentals to Physics: from ABC to Quantum Physics.(in Chinese)<br/>
+[3] From ABC to Quantum Physics.(in Chinese)<br/>
 updating, Note@Gitbook. 
 [[PhyisCS](https://kfluo.gitbook.io/phyiscs/)]
 
