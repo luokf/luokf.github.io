@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Full list please find on my Google Scholar profile.<br/>
-$^{*}$Joint fitst author.
+$^{*}$Joint first author.
 
 ---
 
