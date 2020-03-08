@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Full list please find on my [Google Scholar](https://scholar.google.com/citations?user=IaCMjeQAAAAJ&hl=en) profile.<br/>
-$^{*}$Joint first author.
+$^{\star}$Joint first author.
 
 ---
 
@@ -19,5 +19,5 @@ $^{*}$Joint first author.
 [[URL](https://arxiv.org/abs/1810.09231)]
 
 [3] Large Fermi-arc and robust Weyl semimetal phase in Ag$_2$S,<br/>
-Zhenwei Wang$^{*}$, **Kaifa Luo**$^{*}$, Jianzhou Zhao, Rui Yu, Phys. Rev. B. 100, 205117 (2019).<br/>
+Zhenwei Wang$^{\star}$, **Kaifa Luo**$^{\star}$, Jianzhou Zhao, Rui Yu, Phys. Rev. B 100, 205117 (2019).<br/>
 [[URL](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205117)]
