@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks & Notes"
-permalink: /talks/
+permalink: /talk/
 author_profile: true
 ---
 
