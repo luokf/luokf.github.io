@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV (PDF)](https://hkustconnect-my.sharepoint.com/personal/kluoab_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkluoab%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdocs%2FCV%5FAcademic%2FCV%5Fkfluo%2Epdf&parent=%2Fpersonal%2Fkluoab%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdocs%2FCV%5FAcademic&originalPath=aHR0cHM6Ly9oa3VzdGNvbm5lY3QtbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwva2x1b2FiX2Nvbm5lY3RfdXN0X2hrL0Vab3N0dlZ0Q0dKRHQ5aUh4MWdSQmJzQkwwcml5T0dWM01iSmtuT1R3UmVLNWc_cnRpbWU9ZDNmTkZwX0UxMGc)
+[Full CV (PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZostvVtCGJDt9iHx1gRBbsBL0riyOGV3MbJknOTwReK5g)
+
 
 ## Education
 * Jun 2018, B.Sc. at Wuhan University
