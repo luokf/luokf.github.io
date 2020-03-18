@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV (PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZostvVtCGJDt9iHx1gRBbsBL0riyOGV3MbJknOTwReK5g)
+[Full CV (PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZBFMi7js5pOgHC-zads4CMB-rZ8Yw_gcFN3WghVY3yocg?e=nxk9Dn)
 
 
 ## Education
