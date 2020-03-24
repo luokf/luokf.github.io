@@ -23,8 +23,11 @@ redirect_from:
   * Graduated Summa Cum Laude
 
 ## Research Experience
-* Sep 2019 - May 2020: HK University of Science and Technology
+* Sep 2019 - May 2020: Hong Kong University of Science and Technology
   * Research Assistant, Supervisor: Prof. [Xi Dai](http://physics.ust.hk/eng/people_detail.php?pplcat=1&id=431)
 
 * Mar 2017 - May 2019: Wuhan University
   * Research Assistant, Supervisor: Prof. [Rui Yu](https://scholar.google.com/citations?user=wk3pirYAAAAJ&hl=en)
+
+* Aug 2016 - Jan 2017: Wuhan University
+  * Research Assistant, Supervisor: Prof. [Chun-Yin Qiu](http://scholar.google.com/citations?user=nUWyEO8AAAAJ&hl=en)
