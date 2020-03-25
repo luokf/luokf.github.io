@@ -17,7 +17,7 @@ redirect_from:
 * Sep 2019 - May 2020, Hong Kong University of Science and Technology, Hong Kong, China
   * Visiting Graduate in Computational Physics of Condensed Matter
 * Sep 2018 - May 2019, Wuhan University, Wuhan, China
-  * M.Sc. in Condensed Matter Physics
+  * Master Student in Condensed Matter Physics
 * Sep 2014 - Jun 2018, Wuhan University, Wuhan, China
   * B.Sc. in Physics & Minor in Computer Science
   * Graduated Summa Cum Laude
