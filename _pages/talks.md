@@ -7,11 +7,11 @@ author_profile: true
 
 ---
 
-[6] Readings of Personal Interest.(Mixed in Chinese and English)<br/>
+[6] **Reading of Personal Interest**.(Mixed in Chinese and English)<br/>
 updating, Note@Gitbook. 
 [[afterSci](https://kfluo.gitbook.io/aftersci/)]
 
-[5] From ABC to Quantum Physics.(in Chinese)<br/>
+[5] **From ABC to Quantum Physics**.(in Chinese)<br/>
 updating, Note@Gitbook. 
 [[PhyisCS](https://kfluo.gitbook.io/phyiscs/)]
 
