@@ -5,6 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Spring 2019 @WHU, Teaching Advisor, Bachelor's Thesis
+* Spring 2019 @WHU, Assistant Instructor, Bachelor's Thesis
   * Topological Spring-Mass Network
   * Higher-Order Exceptional Points Realized by LC Lattice
