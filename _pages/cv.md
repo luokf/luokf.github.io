@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [Full CV (PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZBFMi7js5pOgHC-zads4CMB-rZ8Yw_gcFN3WghVY3yocg?e=nxk9Dn)
 
 ## Education
