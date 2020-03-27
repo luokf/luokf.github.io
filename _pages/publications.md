@@ -10,14 +10,14 @@ $^{\star}$Joint first author.
 
 ---
 
-[1] Topological nodal states in circuit lattice,<br/>
-**Kaifa Luo**, Rui Yu, Hongming Weng. Research 2018, 6793752 (2018).<br/>
-[[URL](https://spj.sciencemag.org/research/2018/6793752/)]
+[3] Large Fermi-arc and robust Weyl semimetal phase in Ag$_2$S,<br/>
+Zhenwei Wang$^{\star}$, **Kaifa Luo**$^{\star}$, Jianzhou Zhao, Rui Yu. Phys. Rev. B 100, 205117 (2019).<br/>
+[[URL](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205117)]
 
 [2] Nodal Manifolds Bounded by Exceptional Points and Electrical-Circuit Realizations,<br/>
 **Kaifa Luo**, Jiajin Feng, Y. X. Zhao, Rui Yu. arXiv:1810.09231 (2018).<br/>
 [[URL](https://arxiv.org/abs/1810.09231)]
 
-[3] Large Fermi-arc and robust Weyl semimetal phase in Ag$_2$S,<br/>
-Zhenwei Wang$^{\star}$, **Kaifa Luo**$^{\star}$, Jianzhou Zhao, Rui Yu. Phys. Rev. B 100, 205117 (2019).<br/>
-[[URL](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205117)]
+[1] Topological nodal states in circuit lattice,<br/>
+**Kaifa Luo**, Rui Yu, Hongming Weng. Research 2018, 6793752 (2018).<br/>
+[[URL](https://spj.sciencemag.org/research/2018/6793752/)]
