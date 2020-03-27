@@ -7,18 +7,14 @@ author_profile: true
 
 ---
 
-[4] Emulation of Topological Semimetal with LC Circuits.<br/>
-2018-05, Talk@Wuhan, China. 
+[3] Emulation of Topological Semimetal with LC Circuits.<br/>
+2018-05 @Wuhan, China. 
 [[PPT](TBD)]
 
-[3] Quasicrystal Meets Quantum Hall Effect.<br/>
-2018-03-12, Talk@Wuhan, China. 
-[[PPT](TBD)]
-
-[2] Slater-Koster Tight-binding Model: a Step-by-Step Intro.<br/>
-2017-12-30, Talk@Wuhan, China. 
+[2] Quasicrystal Meets Quantum Hall Effect.<br/>
+2018-03-12 @Wuhan, China. 
 [[PPT](TBD)]
 
 [1] Floquet Topological States.<br/>
-2017-06-18, Talk@Wuhan, China. 
+2017-06-18 @Wuhan, China. 
 [[PPT](TBD)]
