@@ -1,19 +1,11 @@
 ---
 layout: archive
-title: "Talks & Notes"
+title: "Talks"
 permalink: /talk/
 author_profile: true
 ---
 
 ---
-
-[6] **Reading of Personal Interest**.(Mixed in Chinese and English)<br/>
-updating, Note@Gitbook. 
-[[afterSci](https://kfluo.gitbook.io/aftersci/)]
-
-[5] **From ABC to Quantum Physics**.(in Chinese)<br/>
-updating, Note@Gitbook. 
-[[PhyisCS](https://kfluo.gitbook.io/phyiscs/)]
 
 [4] Emulation of Topological Semimetal with LC Circuits.<br/>
 2018-05, Talk@Wuhan, China. 
