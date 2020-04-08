@@ -5,8 +5,6 @@ permalink: /talk/
 author_profile: true
 ---
 
----
-
 [3] Emulation of Topological Semimetal with LC Circuits.<br/>
 2018-05 @Wuhan, China. 
 [[PPT](TBD)]

@@ -10,7 +10,9 @@ redirect_from:
 
 Hi there!
 
-I am currently a research assistant in HKUST, and will be a PhD candidate in UT-Austin this fall. Before these, I was being an undergraduate researcher in Wuhan University for around three years.
+I am currently a research assistant at HKUST, and will be a PhD student at UT-Austin in this fall. Before these, I was being an undergraduate researcher in Wuhan University for around three years.
+
+Besides great passion in Physics and Computer Science, I am also interested in Classical Sociology and Macro-Economics.
 
 [**Academic CV (PDF)**](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZBFMi7js5pOgHC-zads4CMB-rZ8Yw_gcFN3WghVY3yocg?e=nxk9Dn)
 
