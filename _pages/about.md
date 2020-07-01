@@ -10,9 +10,9 @@ redirect_from:
 
 Hi there!
 
-I am currently a research assistant at HKUST, and will be a PhD student majoring in Physics at UT-Austin in this fall. Before these, I was being an undergraduate researcher in Wuhan University for around three years.
+I am currently a research assistant at HKUST, and will be a PhD student majoring in Physics in this fall. Before these, I was being an undergraduate researcher in Wuhan University for around three years.
 
-Besides great passions for natural science, I am also interested in computer science, sociology and macro-economics. To understand human and nature is one of the most significant motivations of my life.
+Besides great passions for natural science, I am interested in computer science, sociology and macro-economics. To understand human and nature motivates my life.
 
 [**Academic CV (PDF)**](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZBFMi7js5pOgHC-zads4CMB-rZ8Yw_gcFN3WghVY3yocg?e=nxk9Dn)
 
