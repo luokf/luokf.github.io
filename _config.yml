@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IaCMjeQAAAAJ&hl=en"
   email            : "kfluo@utexas.edu"
-  researchgate     : "https://www.researchgate.net/profile/Kaifa_Luo"
+  researchgate     : # "https://www.researchgate.net/profile/Kaifa_Luo"
   uri              :
   bitbucket        :
   codepen          :

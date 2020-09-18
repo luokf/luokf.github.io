@@ -10,10 +10,10 @@ redirect_from:
 [Full CV (PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZBFMi7js5pOgHC-zads4CMB-rZ8Yw_gcFN3WghVY3yocg?e=nxk9Dn)
 
 ## Education
-* Aug 2020 - Present, University of Texas at Austin, Austin, USA
+*  2020 - Present, University of Texas at Austin, Austin, USA
   * PhD Student in Physics
-* Sep 2019 - May 2020, Hong Kong University of Science and Technology, Hong Kong, China
-  * Visiting Graduate in Computational Physics of Condensed Matter
+* Sep 2019 - Dec 2020, Hong Kong University of Science and Technology, Hong Kong, China
+  * Postgraduate, Research Assistant in Condensed Matter Physics
 * Sep 2018 - May 2019, Wuhan University, Wuhan, China
   * Master Student in Condensed Matter Physics
 * Sep 2014 - Jun 2018, Wuhan University, Wuhan, China
