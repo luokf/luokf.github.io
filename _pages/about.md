@@ -14,8 +14,6 @@ I am currently a research assistant at HKUST, and will be a PhD student majoring
 
 Besides great passions for natural science, I am interested in computer science, sociology, macro-economics, communication and psychology. To understand human and nature motivates my life.
 
-[**Academic CV (PDF)**](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/EZBFMi7js5pOgHC-zads4CMB-rZ8Yw_gcFN3WghVY3yocg?e=nxk9Dn)
-
 ---
 
 PageViews: <!-- hitwebcounter Code START -->
