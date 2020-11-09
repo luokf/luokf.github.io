@@ -18,12 +18,12 @@ redirect_from:
   * Master Student in Condensed Matter Theory
 
 ## Professional Experience
-* Jan 2021 - Present: The University of Texas at Austin
+* Jan 2021 - Present, The University of Texas at Austin
   * Supervisor: Prof. [Qian Niu](https://web2.ph.utexas.edu/~niugroup/niu.html)
 
-* Sep 2019 - Dec 2020, Research Assistant: The Hong Kong University of Science and Technology
+* Sep 2019 - Dec 2020, Research Assistant, The Hong Kong University of Science and Technology
   * Supervisor: Prof. [Xi Dai](http://physics.ust.hk/eng/people_detail.php?pplcat=1&id=431)
 
-* Mar 2017 - May 2019, Research Assistant: Wuhan University
-  * Supervisor: Prof. [Rui Yu](https://scholar.google.com/citations?user=wk3pirYAAAAJ&hl=en) (03/2017--05/2019)
-  * Supervisor: Prof. [Chun-Yin Qiu](http://scholar.google.com/citations?user=nUWyEO8AAAAJ&hl=en) (08/2016--01/2017)
+* Aug 2016 - May 2019, Research Assistant, Wuhan University
+  * Supervisor: Prof. [Rui Yu](https://scholar.google.com/citations?user=wk3pirYAAAAJ&hl=en) (03/2017 - 05/2019)
+  * Supervisor: Prof. [Chun-Yin Qiu](http://scholar.google.com/citations?user=nUWyEO8AAAAJ&hl=en) (08/2016 - 01/2017)
