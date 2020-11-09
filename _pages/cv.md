@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Academic CV"
-permalink: /cv/
+title: "Academic Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[Full Academic CV (PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/ESdiq2w_GYREiQFEc9kyswgBgy3LcG4U8fZkP6Pr2yk0EA?e=2FQ7Pv)
+[Full Academic Resume(PDF)](https://hkustconnect-my.sharepoint.com/:b:/g/personal/kluoab_connect_ust_hk/ESdiq2w_GYREiQFEc9kyswgBgy3LcG4U8fZkP6Pr2yk0EA?e=2FQ7Pv)
 
 ## Education
 * Jan 2021 - Present, The University of Texas at Austin, Austin, USA
