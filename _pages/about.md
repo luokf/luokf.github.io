@@ -10,9 +10,9 @@ redirect_from:
 
 Hi there!
 
-I am currently PhD student majoring in Physics at UT-Austin. Before this, I was being an undergraduate researcher at Wuhan University and a research assistant at HKUST for around four years.
+I am currently a PhD student majoring in Physics at UT Austin. Before this, I was being an undergraduate researcher at Wuhan University and a research assistant at HKUST for around four years.
 
-Besides great passions for natural science, I am interested in sociology, macro-economics and psychology. To understand human and nature motivates my life.
+Besides continuous passions for natural science, I am now interested in Social Constructionism, Macro-economics and Cognitive Psychology. To understand humankind and natural world motivates my life.
 
 ---
 
