@@ -12,6 +12,8 @@ redirect_from:
 ## Education
 * Jan 2021 - Present, The University of Texas at Austin, Austin, USA
   * PhD Student in Physics
+* Aug 2019 - Dec 2020, The Hong Kong University of Science and Technology, Hong Kong, China
+  * Visiting Graduate in Physics
 * Sep 2014 - May 2019, Wuhan University, Wuhan, China
   * B.Sc. in Physics & Minor in Computer Science
   * Graduated Summa Cum Laude
