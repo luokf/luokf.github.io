@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there!
 
-I am currently a PhD student majoring in Physics at UT Austin. Before this, I was being an undergraduate researcher at Wuhan University and a research assistant at HKUST for around four years.
+I am a PhD student majoring in Theoretical Physics at UT Austin from spring 2021. Before this, I was an undergraduate researcher at Wuhan University and a research assistant at HKUST for over four years.
 
 Besides continuous passions for natural science, I am now interested in Social Constructionism, Micro-economics and Cognitive Psychology. To understand humankind and natural world motivates my life.
 

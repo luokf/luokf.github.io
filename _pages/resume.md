@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Jan 2021 - Present, The University of Texas at Austin, Austin, USA
-  * PhD Student in Physics
+  * PhD Student in Theoretical Physics
 * Aug 2019 - Dec 2020, The Hong Kong University of Science and Technology, Hong Kong, China
   * Visiting Graduate in Physics
 * Sep 2014 - May 2019, Wuhan University, Wuhan, China
@@ -20,11 +20,11 @@ redirect_from:
   * Master Student in Condensed Matter Theory
 
 ## Professional Experience
-* Jan 2021 - Present, The University of Texas at Austin
-  * Supervisor: Prof. [Qian Niu](https://web2.ph.utexas.edu/~niugroup/niu.html)
+* Dec 2021 - Present, The University of Texas at Austin
+  * Supervisor: Prof. [Qian Niu](https://scholar.google.com/citations?hl=en&user=6lIA6wIAAAAJ)
 
 * Sep 2019 - Dec 2020, Research Assistant, The Hong Kong University of Science and Technology
-  * Supervisor: Prof. [Xi Dai](http://physics.ust.hk/eng/people_detail.php?pplcat=1&id=431)
+  * Supervisor: Prof. [Xi Dai](https://scholar.google.com/citations?hl=en&user=Rj1ZUlgAAAAJ)
 
 * Aug 2016 - May 2019, Research Assistant, Wuhan University
   * Supervisor: Prof. [Rui Yu](https://scholar.google.com/citations?user=wk3pirYAAAAJ&hl=en) (03/2017 - 05/2019)
