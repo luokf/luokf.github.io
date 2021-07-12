@@ -18,11 +18,10 @@ redirect_from:
   * Master student in Condensed Matter Theory for a year
 
 ## Professional Experience
-* Jul 2021 - Present, The University of Texas at Austin
-  * Supervisor: Prof. [Feliciano Giustino](https://scholar.google.com/citations?user=J5f7pgwAAAAJ&hl=en)
 
-* Dec 2020 - Jul 2021, The University of Texas at Austin
-  * Supervisor: Prof. [Qian Niu](https://scholar.google.com/citations?hl=en&user=6lIA6wIAAAAJ)
+* Dec 2020 - Present, The University of Texas at Austin
+  * Supervisor: Prof. [Qian Niu](https://scholar.google.com/citations?hl=en&user=6lIA6wIAAAAJ) (12/2020 - 07/2021)
+  * Supervisor: Prof. [Feliciano Giustino](https://scholar.google.com/citations?user=J5f7pgwAAAAJ&hl=en) (since 07/2021)
 
 * Sep 2019 - Dec 2020, Research Assistant, The Hong Kong University of Science and Technology
   * Supervisor: Prof. [Xi Dai](https://scholar.google.com/citations?hl=en&user=Rj1ZUlgAAAAJ)
